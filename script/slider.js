@@ -1,20 +1,20 @@
 let images = [
   {
-    src: '../images/s2/s2_image_slide1.jpg',
+    src: './images/s2/s2_image_slide1.jpg',
     city: `Rostov-on-Don LCD admiral`,
     area: `81 m2`,
     time: `3.5 months`,
     cost: `Upon request`,
   },
   {
-    src: `../images/s2/s2_image_slide2.jpg`,
+    src: `./images/s2/s2_image_slide2.jpg`,
     city: `Sochi Thieves`,
     area: `105 m2`,
     time: `4 months`,
     cost: `Upon request`,
   },
   {
-    src: `../images/s2/s2_image_slide3.jpg`,
+    src: `./images/s2/s2_image_slide3.jpg`,
     city: `Rostov-on-Don Patriotic`,
     area: `93 m2`,
     time: `3 months`,
